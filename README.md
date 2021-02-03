@@ -1,2 +1,2 @@
-# EE4211
+# NUS EE4211
 EE4211 project
